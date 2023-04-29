@@ -1,4 +1,4 @@
-# machine_learning2
+# flight price predection
 in this file:
 1- some of feature engineer
 2- data visualization
